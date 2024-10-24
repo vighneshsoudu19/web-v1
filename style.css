@@ -5,8 +5,11 @@
 }
 
 .container{
-    text-align: center;
     display: flex;
+    align-items: center;
     justify-content: center;
-    justify-items: center
 }
+.conatiner h1{
+   font-size: 200px;
+}
+
